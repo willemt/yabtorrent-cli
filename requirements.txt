@@ -1,0 +1,6 @@
+willemt/file2str
+clibs/http-parser
+willemt/stubfile
+willemt/torrent-reader
+willemt/tracker-client
+littlstar/uri.c
